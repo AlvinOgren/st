@@ -18,6 +18,9 @@ header {
     position: fixed;
     height: 100%;
     overflow: auto;
+    display: flex;            /* Flexbox layout */
+    flex-direction: column;   /* Arrange children in a column */
+    align-items: center;      /* Center children horizontally */
 }
 
 .sidebar a {
@@ -32,8 +35,15 @@ header {
     color: white;
 }
 
+.sidebar .profile-link {
+    display: flex;            /* Flexbox layout for profile link */
+    flex-direction: column;   /* Arrange children in a column */
+    align-items: center;      /* Center children horizontally */
+    text-align: center;       /* Center text */
+}
+
 .sidebar .profile-image {
-    width: 100%;
+    width: 70%;
     border-radius: 50%;
 }
 
