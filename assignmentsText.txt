@@ -1,0 +1,44 @@
+Frontend Web DeveloperFrontend Web Developer
+Atlas Copco · Tidsbegränsad anställningAtlas Copco · Tidsbegränsad anställning
+apr. 2024–nu · 3 månapr. 2024 till nu · 3 mån
+Nacka, Stockholm County, Sweden · HybridNacka, Stockholm County, Sweden · Hybrid
+Tele2 logotyp
+Solution Architect/Software DeveloperSolution Architect/Software Developer
+Tele2 · Tidsbegränsad anställningTele2 · Tidsbegränsad anställning
+juni 2021–mars 2024 · 2 år 10 månjuni 2021 till mars 2024 · 2 år 10 mån
+Rinkeby-Kista, Stockholm County, Sweden · HybridRinkeby-Kista, Stockholm County, Sweden · Hybrid
+From June to December 2021, I have done a review of all internally developed systems at Comviq. I have produced architecture diagrams, described technical solutions and dependencies between systems, and highlighted security risks and maintenance needs.
+
+During January 2022 – March 2023, I have been involved in building a new and common technical platform for all front-end development at Tele2 where all brands and channels are included for both public and internal systems. Frontend architecture includes a monorepo with applications and libraries for server-side rendering, single-page applications and microfrontends depending on need and purpose. Microfrontends were built both with Webpack Module Federation and as Web components for integration with legacy systems.
+
+During April – October 2023, I have built a new system for creating accounts and login with BankID for both Comviq and Tele2. From November 2023 – March 2024, I have built new pages for customer service and international prices.
+
+I have been working with technologies such as Node.js, TypeScript, React, Nx, NGINX, Express, Contentful, Figma, Styled Components, Vanilla Extract, OAuth2/OpenID Connect, Curity, Webpack, Vite, Docker, Kubernetes, Azure, Azure DevOps, Jest, Cypress, Astro, Next.js, Git, GitHub Copilot, Kibana, Grafana, Grafana k6, Confluence and Jira.From June to December 2021, I have done a review of all internally developed systems at Comviq. I have produced architecture diagrams, described technical solutions and dependencies between systems, and highlighted security risks and maintenance needs. During January 2022 – March 2023, I have been involved in building a new and common technical platform for all front-end development at Tele2 where all brands and channels are included for both public and internal systems. Frontend architecture includes a monorepo with applications and libraries for server-side rendering, single-page applications and microfrontends depending on need and purpose. Microfrontends were built both with Webpack Module Federation and as Web components for integration with legacy systems. During April – October 2023, I have built a new system for creating accounts and login with BankID for both Comviq and Tele2. From November 2023 – March 2024, I have built new pages for customer service and international prices. I have been working with technologies such as Node.js, TypeScript, React, Nx, NGINX, Express, Contentful, Figma, Styled Components, Vanilla Extract, OAuth2/OpenID Connect, Curity, Webpack, Vite, Docker, Kubernetes, Azure, Azure DevOps, Jest, Cypress, Astro, Next.js, Git, GitHub Copilot, Kibana, Grafana, Grafana k6, Confluence and Jira.… se mer
+TypeScript, Nginx och +42 kompetenser
+Svenska Spel logotyp
+Solution ArchitectSolution Architect
+Svenska Spel · HeltidSvenska Spel · Heltid
+okt. 2015–juni 2021 · 5 år 9 månokt. 2015 till juni 2021 · 5 år 9 mån
+Solna · HybridSolna · Hybrid
+During the period 2015 – 2016, I was a fullstack developer for internal web applications used to create and administer Svenska Spel's games. Technologies used were C#/.NET (ASP.NET WebForms and MVC), JavaScript and SQL Server.
+
+Since 2017, as a solution architect, I have developed and been responsible for a new technical platform and software architecture based on Node.js and open-source code, and a decision was made to start migrating from the .NET systems. I spent a lot of time supporting the teams and developing applications with a focus on robustness and maintainability.
+
+The applications and their common platform were built on technologies such as Node.js, TypeScript, Express, React, Redux, Webpack, Jest, Cypress, Testing Library, Material UI, Git, GitLab, Jenkins, Kibana, Grafana, Docker, Kubernetes and Rancher.During the period 2015 – 2016, I was a fullstack developer for internal web applications used to create and administer Svenska Spel's games. Technologies used were C#/.NET (ASP.NET WebForms and MVC), JavaScript and SQL Server. Since 2017, as a solution architect, I have developed and been responsible for a new technical platform and software architecture based on Node.js and open-source code, and a decision was made to start migrating from the .NET systems. I spent a lot of time supporting the teams and developing applications with a focus on robustness and maintainability. The applications and their common platform were built on technologies such as Node.js, TypeScript, Express, React, Redux, Webpack, Jest, Cypress, Testing Library, Material UI, Git, GitLab, Jenkins, Kibana, Grafana, Docker, Kubernetes and Rancher.… se mer
+TypeScript, Rancher och +42 kompetenser
+SEB logotyp
+Software DeveloperSoftware Developer
+SEB · HeltidSEB · Heltid
+okt. 2010–okt. 2015 · 5 år 1 månokt. 2010 till okt. 2015 · 5 år 1 mån
+Rissne · På platsRissne · På plats
+Developed software during the period 2010 - 2012 for securities trading and portfolio management within private banking. The bank made very high demands on stability and availability, so much of the work was devoted to this. Technologies used were Visual Studio, ReSharper, C#/.NET (Windows Forms, WPF), SOAP and Microsoft SQL Server.
+
+During the period 2012 – 2015, I developed reporting systems for the entire bank's securities holdings on behalf of Compliance and the Financial Supervisory Authority. I took the initiative to automate manual processes that made the business more efficient. From 2015 my title became Lead Designer. Technologies involved were C#/.NET (ASP.NET WebForms), Windows Server, SSIS and Microsoft SQL Server.Developed software during the period 2010 - 2012 for securities trading and portfolio management within private banking. The bank made very high demands on stability and availability, so much of the work was devoted to this. Technologies used were Visual Studio, ReSharper, C#/.NET (Windows Forms, WPF), SOAP and Microsoft SQL Server. During the period 2012 – 2015, I developed reporting systems for the entire bank's securities holdings on behalf of Compliance and the Financial Supervisory Authority. I took the initiative to automate manual processes that made the business more efficient. From 2015 my title became Lead Designer. Technologies involved were C#/.NET (ASP.NET WebForms), Windows Server, SSIS and Microsoft SQL Server.… se mer
+Entity Framework, SQL och +30 kompetenser
+CC Online logotyp
+Software DeveloperSoftware Developer
+CC Online · HeltidCC Online · Heltid
+sep. 2007–sep. 2010 · 3 år 1 månsep. 2007 till sep. 2010 · 3 år 1 mån
+Kista · På platsKista · På plats
+Developed Windows application for project administration using C#/.NET (Windows Forms) and SQL Server as well as a handheld mobile system for Windows Mobile with .NET Compact Framework.Developed Windows application for project administration using C#/.NET (Windows Forms) and SQL Server as well as a handheld mobile system for Windows Mobile with .NET Compact Framework.
+SQL, WinForms och +13 kompetenser
